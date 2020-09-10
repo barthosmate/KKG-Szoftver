@@ -1,3 +1,5 @@
 # KKG-Szoftver
 KKG Szoftverfejlesztő esti
-Barthos Máté - barthosmate - barthosmate@gmail.com
+
+
+Barthos Máté/barthosmate@gmail.com
